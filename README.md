@@ -23,14 +23,6 @@ Hi, I'm Nick! This is my GitHub profile, where I host my sources in private repo
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code">
 </p>
 
-## Showcase
-
-<p align="center">
-  <a href="https://github.com/dismissively/showcase">
-    <img src="https://img.shields.io/badge/View%20Showcase-FF4088?style=for-the-badge&logo=github" alt="Showcase Link">
-  </a>
-</p>
-
 ## Visitor Count
 
 <p align="center">
