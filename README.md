@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://swerving.xyz/cert_04881.png" alt="NoSkid Verification">
-</p>
-
 ## Languages
 
 <p align="center">
@@ -26,4 +22,9 @@
 
 <p align="center">
   <img src="https://count.getloli.com/get/@lhwe?theme=gelbooru" alt="Visitor Counter">
+</p>
+
+## Cert
+<p align="center">
+  <img src="https://swerving.xyz/cert_04881.png" width="50%" height="50% alt="NoSkid Verification">
 </p>
